@@ -4,8 +4,8 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 import time
 
-# PRODUCT = "https://www.bnn.in.th/en/p/gaming-gear/playstation/playstation-1/sony-playstation-5-digital-edition-4948872414999_dmj01d"
-PRODUCT = "https://www.bnn.in.th/en/p/it-accessories/logitech-gaming-keyboard-league-of-legends-edition-097855170774_d4x144" #test
+PRODUCT = "https://www.bnn.in.th/en/p/gaming-gear/playstation/playstation-1/sony-playstation-5-digital-edition-4948872414999_dmj01d"
+# PRODUCT = "https://www.bnn.in.th/en/p/it-accessories/logitech-gaming-keyboard-league-of-legends-edition-097855170774_d4x144" #test
 USERNAME = ""
 PASSWORD = ""
 
